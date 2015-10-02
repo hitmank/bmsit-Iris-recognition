@@ -1,0 +1,64 @@
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\obj\Debug\Iris Recognition.csprojResolveAssemblyReference.cache
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Iris Recognition.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Iris Recognition.pdb
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2008.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.ML.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.Util.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\ZedGraph.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.Util.xml
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\obj\Debug\Iris Recognition.dll
+C:\Users\BLACK COFFEE\documents\visual studio 2010\Projects\Iris Recognition\Iris Recognition\obj\Debug\Iris Recognition.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Iris Recognition.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Iris Recognition.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2008.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.ML.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OpenCL.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.Stitching.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.UI.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.VideoStab.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.Util.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\ZedGraph.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.GPU.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.ML.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.ML.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OCR.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OpenCL.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.OpenCL.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.Stitching.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.Stitching.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.UI.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.VideoStab.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.CV.VideoStab.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.Util.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\Emgu.Util.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\ZedGraph.xml
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\obj\Debug\Iris Recognition.dll
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\obj\Debug\Iris Recognition.pdb
+C:\Users\AC\Documents\Visual Studio 2010\Projects\Iris Recognition\Iris Recognition\obj\Debug\Iris Recognition.csprojResolveAssemblyReference.cache
